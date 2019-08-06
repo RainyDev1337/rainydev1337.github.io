@@ -1,5 +1,5 @@
 1.1x
-offline
+выключен (Статус обновляется раз в 24часа!)
 https://oxy.cloud/d/RDT
 minecraft://?addExternalServer=§l§aTemporary§cMadness|tm-pe.ru:19132
 
