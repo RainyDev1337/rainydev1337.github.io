@@ -1,4 +1,4 @@
 1.1x
 offline
-
+minecraft://?addExternalServer=§l§aTemporary§cMadness|tm-pe.ru:19132
 https://oxy.cloud/d/RDT
