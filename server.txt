@@ -1,5 +1,5 @@
 1.1x
-Работает
+Выключен.
 https://oxy.cloud/d/RDT
 minecraft://?addExternalServer=§l§9Temporary§cMadness|tm-pe.ru:19132
 
